@@ -2,9 +2,11 @@
 
 ## Status of the project
 
-Voice Input is currently being developed as a [FUTO](https://futo.org/) project and will launch soon. It will come with a polished UI, the option to switch models, multilingual support, and various improvements.
+Voice Input is being developed as a [FUTO](https://futo.org/) project. [Click here to visit the FUTO Voice Input website.](https://voiceinput.futo.org/) More links:
+* [FUTO Voice Input source code](https://gitlab.futo.org/alex/voiceinput)
+* [Issue tracker for FUTO Voice Input](https://github.com/futo-org/voice-input/issues)
 
-This repository contains an old version of the code that served as the initial proof-of-concept.
+This repository contains an old version of the code that served as an initial proof-of-concept. Please look above for the full application.
 
 ## Info about this repo
 
